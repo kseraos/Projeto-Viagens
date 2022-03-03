@@ -1,0 +1,25 @@
+#root{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.header-img{
+  width: 45%;
+
+
+}
+
+.header-h2{
+  text-align: center;
+  color: rgb(47, 47, 156);
+
+}
